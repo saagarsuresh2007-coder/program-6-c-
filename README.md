@@ -2,11 +2,9 @@
 C module 6
 EXP.No:6-c-Student information using structure.
 
-Date:19/10/2025
-
-Name: VASANTH S
-
-Ref no: 25017538
+Date: 26.03.2026
+Name: SAAGAR S
+Ref no: 25013937
 
 AIM:
 Create a C Program to store the student information and display it using structure.
